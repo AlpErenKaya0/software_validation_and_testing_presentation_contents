@@ -1,0 +1,37 @@
+ 
+From COCOMO to AI: The Evolution of Software Engineering, Complexity, and the Illusion of the Silver Bullet
+(IT MUST! BE THE FIRST PRESENTATION!)
+Hints: 
+No Silver Bullet Article
+Cost models for future software life cycle processes: COCOMO 2.0
+Spiral Model
+Agile Manifesto
+keywords: 
+LOC, KLOC, COCOMO, SDLC, Function Points (FP), DevOps / CI/CD, Technical Debt,
+
+Automated CI/CD Pipelines with GitHub Actions: Triggering tests automatically on every code push
+Static Code Analysis with SonarQube: Automating the detection of bugs and code smells
+Code Coverage Analysis with Jacoco: Measuring the percentage of code executed by automated tests
+Vulnerability Scanning with Snyk: Automatically detecting security risks in project dependencies
+Behavior-Driven Development (BDD) with Cucumber & Gherkin: Writing test scenarios in plain English to bridge the gap between business and tech
+Modern Web Automation with Playwright: Implementing fast, reliable, and auto-waiting browser tests
+UI Test Automation with Selenium WebDriver: Managing dynamic web elements and cross-browser test suites
+Web Performance Auditing with Lighthouse: Automating the measurement of speed, SEO, and accessibility metrics
+Visual Regression Testing with Applitools: Detecting UI layout shifts and graphical glitches using AI
+API Test Automation with Postman & Newman: Creating and running automated REST API test suites via terminal
+API Mocking with WireMock: Simulating external services to speed up testing and remove dependencies
+Contract Testing with Pact.io: Ensuring data communication consistency between microservices
+Cloud Service Simulation with LocalStack: Testing AWS services (S3, Lambda) locally without real cloud costs
+Cross-Platform Mobile Testing with Appium: Automating test scenarios for both Android and iOS apps
+Load and Stress Testing with JMeter: Determining system breaking points by simulating heavy user traffic
+Developer-Centric Performance Testing with k6: Setting performance thresholds within the CI/CD pipeline
+Ephemeral Database Management with Testcontainers: Dynamically spinning up/tearing down databases during test execution
+Automated Security Scanning with OWASP ZAP: Scanning for common web vulnerabilities like SQL Injection and XSS
+Professional Test Reporting with Allure: Converting raw test results into comprehensive visual dashboards
+AI-Powered Test Generation with TestSprite: Using AI to convert manual test steps into automated scripts
+gRPC Testing: Testing high-performance binary APIs with Protobuf and gRPCurl
+IoT Device Software Testing: Addressing connectivity drops, offline modes, and battery impact
+Swagger/OpenAPI for Automated API Testing: Generating test cases directly from API documentation
+GraphQL Testing Techniques: Validating queries, mutations, and preventing over/under-fetching
+Azure Devops
+
