@@ -1,3 +1,5 @@
+Presentation Topics (choose one and mail me, you should choose not chosen one. First Come First Served.)
+
 1.From COCOMO to AI: The Evolution of Software Engineering, Complexity, and the Illusion of the Silver Bullet
 (IT MUST! BE THE FIRST PRESENTATION!)
 Hints: 
