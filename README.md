@@ -32,6 +32,6 @@ LOC, KLOC, COCOMO, SDLC, Function Points (FP), DevOps / CI/CD, Technical Debt,
 21. AI-Powered Test Generation with TestSprite: Using AI to convert manual test steps into automated scripts
 22. gRPC Testing: Testing high-performance binary APIs with Protobuf and gRPCurl
 23. IoT Device Software Testing: Addressing connectivity drops, offline modes, and battery impact
-24. Swagger/OpenAPI for Automated API Testing: Generating test cases directly from API documentation
+24. Swagger/OpenAPI for Automated API Testing: Generating test cases directly from API documentation -
 25. GraphQL Testing Techniques: Validating queries, mutations, and preventing over/under-fetching
 26. Azure Devops
