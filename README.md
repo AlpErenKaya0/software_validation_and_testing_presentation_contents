@@ -34,4 +34,4 @@ LOC, KLOC, COCOMO, SDLC, Function Points (FP), DevOps / CI/CD, Technical Debt,
 23. IoT Device Software Testing: Addressing connectivity drops, offline modes, and battery impact -
 24. Swagger/OpenAPI for Automated API Testing: Generating test cases directly from API documentation -
 25. GraphQL Testing Techniques: Validating queries, mutations, and preventing over/under-fetching
-26. Azure Devops
+26. Azure Devops-
