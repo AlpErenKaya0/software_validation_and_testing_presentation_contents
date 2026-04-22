@@ -10,7 +10,7 @@ Agile Manifesto
 keywords: 
 LOC, KLOC, COCOMO, SDLC, Function Points (FP), DevOps / CI/CD, Technical Debt,
 
-2. Automated CI/CD Pipelines with GitHub Actions: Triggering tests automatically on every code push
+2. Automated CI/CD Pipelines with GitHub Actions: Triggering tests automatically on every code push-
 3. Static Code Analysis with SonarQube: Automating the detection of bugs and code smells - 
 4. Code Coverage Analysis with Jacoco: Measuring the percentage of code executed by automated tests
 5. Vulnerability Scanning with Snyk: Automatically detecting security risks in project dependencies-
