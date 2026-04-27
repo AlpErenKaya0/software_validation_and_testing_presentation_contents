@@ -22,7 +22,7 @@ LOC, KLOC, COCOMO, SDLC, Function Points (FP), DevOps / CI/CD, Technical Debt,
 11. API Test Automation with Postman & Newman: Creating and running automated REST API test suites via terminal -
 12. API Mocking with WireMock: Simulating external services to speed up testing and remove dependencies
 13. Contract Testing with Pact.io: Ensuring data communication consistency between microservices
-14. Cloud Service Simulation with LocalStack: Testing AWS services (S3, Lambda) locally without real cloud costs
+14. Cloud Service Simulation with LocalStack: Testing AWS services (S3, Lambda) locally without real cloud costs-
 15. Cross-Platform Mobile Testing with Appium: Automating test scenarios for both Android and iOS apps
 16. Load and Stress Testing with JMeter: Determining system breaking points by simulating heavy user traffic
 17. Developer-Centric Performance Testing with k6: Setting performance thresholds within the CI/CD pipeline
